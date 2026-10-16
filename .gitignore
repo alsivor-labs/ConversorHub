@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+dist/
+build/
+*.spec
+.pytest_cache/
+*.log
+.DS_Store
+Thumbs.db
+bin/
+*.mp4
+*.mp3
+*.wav
+*.pdf
